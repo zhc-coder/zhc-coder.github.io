@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/13/network/tcp/network_tcp_isndeff/</loc>
+    
+    <lastmod>2025-10-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/12/network/tcp/network_tcp_tcpstream/</loc>
+    
+    <lastmod>2025-10-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/20/cap/cap_interview/</loc>
+    
+    <lastmod>2025-10-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/25/operate_system/memory/operate_system_memory_linuxmem/</loc>
+    
+    <lastmod>2025-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/26/operate_system/memory/operate_system_memory_linuxmem2/</loc>
+    
+    <lastmod>2025-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/24/operate_system/memory/operate_system_memory_cachelru/</loc>
+    
+    <lastmod>2025-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/23/operate_system/memory/operate_system_memory_allocmem/</loc>
+    
+    <lastmod>2025-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/22/operate_system/memory/operate_system_memory_memreclaim/</loc>
+    
+    <lastmod>2025-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/21/operate_system/memory/operate_system_memory_malloc/</loc>
+    
+    <lastmod>2025-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/07/network/tcp/network_tcp_interview/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/20/operate_system/memory/operate_system_memory_vmem/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/19/operate_system/os_structure/operate_system_os_structure_linuxwindows/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/14/operate_system/hardware/operate_system_hardware_storage/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/17/operate_system/hardware/operate_system_hardware_softinterrupt/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/18/operate_system/hardware/operate_system_hardware_float/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/15/operate_system/hardware/operate_system_hardware_cpurunfaster/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/13/operate_system/hardware/operate_system_hardware_cpurun/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/17/operate_system/hardware/operate_system_hardware_cpudealtask/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/16/operate_system/hardware/operate_system_hardware_cpucacheconsistency/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/11/04/network/ip/network_ip_base/</loc>
+    
+    <lastmod>2025-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/11/05/network/ip/network_ip_ping/</loc>
+    
+    <lastmod>2025-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/11/06/network/ip/network_ip_pingio/</loc>
+    
+    <lastmod>2025-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/17/network/tcp/network_tcp_timewaitrecvsyn/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/19/network/tcp/network_tcp_tcpunplugthenetworkcable/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/20/network/tcp/network_tcp_tcptwreuseclose/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/21/network/tcp/network_tcp_tcptls/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/11/01/network/tcp/network_tcp_tcpthreefin/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/11/03/network/tcp/network_tcp_tcpseqack/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/10/network/tcp/network_tcp_tcpqueue/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/24/network/tcp/network_tcp_tcpproblem/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/11/network/tcp/network_tcp_tcpoptimize/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/28/network/tcp/network_tcp_tcpnolisten/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/29/network/tcp/network_tcp_tcpnoaccpet/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/22/network/tcp/network_tcp_tcphttpkeepalive/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/09/network/tcp/network_tcp_tcpdump/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/30/network/tcp/network_tcp_tcpdrop/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/18/network/tcp/network_tcp_tcpdownandcrash/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/14/network/tcp/network_tcp_syndrop/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/25/network/tcp/network_tcp_quic/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/27/network/tcp/network_tcp_port/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/16/network/tcp/network_tcp_outoforderfin/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/08/network/tcp/network_tcp_feature/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/15/network/tcp/network_tcp_challengeack/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/09/28/network/base/network_base/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/06/network/http/network_http3/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/06/network/http/network_http_interview/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/06/network/http/network_http_optimize/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/06/network/http/network_http_rpc/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/06/network/http/network_http_websocket/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/06/network/http/network_https_ecdhe/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/06/network/http/network_https_nb/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/06/network/http/network_https_optimize/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/2025/10/06/network/http/network_https_rsa/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/link/index.html</loc>
+    
+    <lastmod>2025-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/categories/index.html</loc>
+    
+    <lastmod>2025-09-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/index.html</loc>
+    
+    <lastmod>2025-09-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://colin-cloud.github.io/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/Java/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/%E9%9D%A2%E8%AF%95/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/TCP-IP/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/HTTP/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/DNS/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/IP/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/RPC/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/WebSocket/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/ECDHE/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/HTTPS/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/RSA/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/TCP/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/%E5%86%85%E5%AD%98/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/LRU/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/CPU/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/%E7%A1%AC%E4%BB%B6/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/%E7%BC%93%E5%AD%98/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/Linux/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/tags/Windows/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://colin-cloud.github.io/categories/%E9%9D%A2%E8%AF%95/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/categories/%E9%9D%A2%E8%AF%95/Java/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/HTTP-%E7%AF%87/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%9F%BA%E7%A1%80%E7%AF%87/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/IP-%E7%AF%87/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCP-%E7%AF%87/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%A1%AC%E4%BB%B6%E7%BB%93%E6%9E%84/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://colin-cloud.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
